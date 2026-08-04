@@ -33,7 +33,7 @@
    <div id="Digitech">
 <h1 style="text-align: center">Welcome to Digitech!</h1>
 <h3 style="text-align: center">Bringing Digital Technologies to an Analog world</h3>
-<h3 style="text-align: center">Student Name: Mohammed Sadiq</h3>
+<h3 style="text-align: center">Student Name: Mohammed sadiq</h3>
 <h3 style="text-align: center">Student Number: 2022429</h3>
 <p style="text-align: center"><img src="images/digitech.jpg" alt = "Digitech Logo" /></p>
 	</div>
